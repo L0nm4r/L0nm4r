@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ABOUT ME
+#### ABOUT ME
  
 ID：L0NM4R
 
@@ -15,14 +15,8 @@ CSDN: https://blog.csdn.net/weixin_45551083
 cnblogs: https://www.cnblogs.com/l0nmar/
 
 - 🌱 I’m currently learning Web Security
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-- TEAM
+#### TEAM
 Pr!5m & Timeline Sec
 <!--
 **L0nm4r/L0nm4r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
