@@ -4,7 +4,7 @@
  
 ID：L0NM4R
 
-ctfer in web,misc
+ctfer in web
 
 contract: 480208601@qq.com
 
