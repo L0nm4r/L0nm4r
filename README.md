@@ -17,7 +17,7 @@ cnblogs: https://www.cnblogs.com/l0nmar/
 - 🌱 I’m currently learning Web Security
 
 #### TEAM
-Pr!5m & Timeline Sec
+Pr!5m
 <!--
 **L0nm4r/L0nm4r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
